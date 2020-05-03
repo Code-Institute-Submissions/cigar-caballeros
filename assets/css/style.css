@@ -1,23 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap:100,200,300,400,500,600,700,800,900|Rubik:100,200,300,400,500,600,700,800,900');
+
+/* -- HEADER CSS -- */
+
+.nav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.navbar-brand {
+    color: red;
+}
+
 .logo {
-    width: 500px;
+    margin-bottom: 25px;
 }
 
-.menu-ts {
-    font-size: 20px;
-    margin-right: 20px;
+.head-color {
+    color: red;
+    text-decoration: underline;
 }
 
-.footer-heading {
+/* -- Section CSS -- */
+
+.img {
+    border: solid 2px red;
+    margin-bottom: 25px;
+}
+
+.section-space {
+    margin-top: 50px;
+    font-family: "Quicksand", sans-serif;
+}
+
+/* -- Footer CSS -- */
+
+.foot {
     text-align: center;
-    font-size: 25px;
-    font-weight: 700;
-    margin-bottom: 30px;
-    color: rgba(0,0,0,.5);
 }
 
-i {
-    color: rgba(0,0,0,.5);
+.center {
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+
+.d-md-inline-block {
+    padding-left: 25px;
     font-size: 50px;
-    margin-left: 90px;
-    margin-right:90px; 
+    color: red;
 }
