@@ -55,6 +55,15 @@
     margin-right: 20px;
 }
 
+.textbox {
+    height: 200px;
+}
+
+.hero {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* -- Footer CSS -- */
 
 .foot {
