@@ -37,6 +37,24 @@
     text-align: center;
 }
 
+.ct-mid {
+    text-align: center;
+}
+
+.form-group {
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border: 1px solid #000;
+    
+}
+
+.btn {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
 /* -- Footer CSS -- */
 
 .foot {
@@ -56,3 +74,4 @@
 .fab {
     color: #882828;
 }
+
