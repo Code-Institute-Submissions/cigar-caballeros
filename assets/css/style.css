@@ -33,6 +33,10 @@
     font-family: "Quicksand", sans-serif;
 }
 
+.jumbotron {
+    text-align: center;
+}
+
 /* -- Footer CSS -- */
 
 .foot {
