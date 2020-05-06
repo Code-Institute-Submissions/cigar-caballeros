@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap:100,200,300,400,500,600,700,800,900|Rubik:100,200,300,400,500,600,700,800,900');
 
-/* -- HEADER CSS -- */
+/* -- HEADER CSS for all pages -- */
 
 .nav {
     display: flex;
@@ -22,7 +22,7 @@
     text-decoration: underline;
 }
 
-/* -- Section CSS -- */
+/* -- Section CSS for all pages -- */
 
 .img {
     border: solid 2px #882828;
@@ -66,7 +66,7 @@
     margin-right: auto;
 }
 
-/* -- Footer CSS -- */
+/* -- Footer CSS for all pages -- */
 
 .foot {
     text-align: center;
@@ -85,4 +85,3 @@
 .fab {
     color: #882828;
 }
-
