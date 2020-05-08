@@ -19,7 +19,6 @@
 
 .head-color {
     color: #882828;
-    text-decoration: underline;
 }
 
 /* -- Section CSS for all pages -- */
@@ -30,34 +29,49 @@
 }
 
 .section-space {
-    margin-top: 50px;
+    margin: 50px;
+    padding: 20px;
     font-family: "Quicksand", sans-serif;
 }
 
 .jumbotron {
     text-align: center;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 .ct-mid {
     text-align: center;
 }
 
-.form-group {
-    width: 50%; 
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-    border: 1px solid #000;
-    
+@media(min-width: 992px) {
+    .center-form{
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+    border: 1px solid#882828;
+    padding: 10px;
+    border-radius: 5px;     
+}
+}
+
+@media(min-width: 992px) {
+    .center-form-1{
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+    border: 1px solid #882828;
+    padding: 50px;
+    border-radius: 5px;     
+}
 }
 
 .btn {
-    margin-top: 20px;
+    margin-top: 5px;
     margin-right: 20px;
-}
-
-.textbox {
-    height: 200px;
 }
 
 .hero {
@@ -79,7 +93,12 @@
 
 .d-md-inline-block {
     font-size: 50px;
-    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.social {
+    padding-top: 5px;
 }
 
 .fab {

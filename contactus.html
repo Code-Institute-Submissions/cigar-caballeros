@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Head Tags -->
 <head>
+    <!-- Meta Tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Link Tags -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
     <title>Cigar Caballeros</title>
-    </head>
-
+</head>
+<!-- Body Tags -->
 <body>
-
-        <header>
+    <!-- Site Header -->
+    <header>
         <div class="container">
-            <img src="/assets/images/cab-logo.jpg" class="img-fluid logo" alt="logo">
+            <!-- Site Logo -->
+            <img src="/assets/images/logo.jpg" class="img-fluid logo" alt="logo">
+            <!-- Navigarion Bar with Toggler -->
             <div class="container nav">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,6 +27,7 @@
                     </button>
                 <div class="collapse navbar-collapse" id="navbarToggler">
                     <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+                        <!-- Navigation Links -->
                         <li class="nav-item">
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
@@ -43,46 +49,42 @@
             </div>
         </div>
     </header>
-
+    <!-- Site Section (Main Body) -->
     <section>
         <div class="container-fluid">
             <div class="row section-space">
                 <div class="col-12">
-                    <img src="/assets/images/meets1.jpg" class="img-fluid img hero" alt="Cigar Meets 01">
-                    <br>
-                    <br>
-                    <br>
-                    <form action="" method="get" id="cigartime">
-                        <div class="form-group">
-                            <label for="fname" class="head-color">Full Name</label>
-                            <input type="text" class="form-control" id="fname" placeholder="Full Name Required Here" required>
-                            <label for="email" class="head-color">Email Address</label>
-                            <input type="email" class="form-control" id="email" placeholder="Email Required Here" required>
-                            <label for="message" class="head-color">Message</label>
-                            <input type="text" class="form-control textbox" id="message" placeholder="Your Message Required Here" required>
-                            <button type="submit" class="btn btn-dark" form="cigartime" value="submit">SUBMIT</button>
-                            <button type="reset" class="btn btn-dark" form="cigartime" value="reset">Reset</button>
-                        </div>
-                     </form>
-                </div>
-                
+                    <img src="/assets/images/cigar-shot.jpg" class="img-fluid img hero" alt="Cigar Meets 01">
+                        <br>
+                        <br>
+                        <br>
+                    <div class="center-form">
+                        <form>
+                            <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required>
+                            <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required>
+                            <textarea rows="5" name="message" id="message" class="form-control" placeholder="Your message" required></textarea>
+                                <div class="text-center">
+                                    <button type="submit" class="btn btn-dark">SUBMIT</button>   
+                                </div>                        
+                        </form>
+                    </div>
+                </div>                
             </div>
         </div>        
     </section>
-    <!-- A very simple page layout to make sure the user that lands on this page can get a message to us as soon as possible. All fields here are
-    required. -->
+    <!-- Social Media Icons and Links -->
     <footer class="center">
-            <h3 class="head-color">OUR SOCIAL</h3>
+            <h3 class="head-color social">OUR SOCIAL</h3>
             <span class="d-md-inline-block"><a href="http://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></span>
             <span class="d-md-inline-block"><a href="http://www.instagram.com" target="_blank"><i class="fab fa-instagram-square"></i></a></span>
             <span class="d-md-inline-block"><a href="http://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></span>
             <span class="d-md-inline-block"><a href="whatsapp.html"><i class="fab fa-whatsapp-square"></i></a></span>
     </footer>
-
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="https://kit.fontawesome.com/d7eb06450d.js" crossorigin="anonymous"></script>
+    <!-- Script Tags -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/d7eb06450d.js" crossorigin="anonymous"></script>
 </body>
 </html>
