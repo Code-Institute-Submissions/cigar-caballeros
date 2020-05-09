@@ -74,15 +74,23 @@ The club is looking to do merchandise and will in time implement and online stor
 
 ## TECHNOLOGIES USED
 
-*HTML5
-*CSS3
-*Boostrap version 4.4.1
-*Cigar Favicon
-*jQuery
-*Javascript
-*Fontawesome
-*Google Fonts
-*Balsamiq Wireframes
+* HTML5
+
+* CSS3
+
+* Boostrap version 4.4.1
+
+* Cigar Favicon
+
+* jQuery
+
+* Javascript
+
+* Fontawesome
+
+* Google Fonts
+
+* Balsamiq Wireframes
 
 ## TESTING
 
@@ -90,36 +98,36 @@ The club is looking to do merchandise and will in time implement and online stor
 
 Github was used for deployment
 
-*Go to cigar caballeros project in Github
+* Go to cigar caballeros project in Github
 
-*Go to settings
+* Go to settings
 
-*Scroll to 'GitHub Pages'
+* Scroll to 'GitHub Pages'
 
-*Select your source (Master Branch)
+* Select your source (Master Branch)
 
-*Choose a 'Theme'
+* Choose a 'Theme'
 
-*Refresh page and wait anywhere up tp 10 minutes
+* Refresh page and wait anywhere up tp 10 minutes
 
-*Site should be published and can be viewed on a browser with your unique address
+* Site should be published and can be viewed on a browser with your unique address
 
 ## CREDITS
 
 ### Content
 
-*All content was researched and written by myself.
+* All content was researched and written by myself.
 
 ### Media
 
-*YouTube was used for the instructional videos.
+* YouTube was used for the instructional videos.
 
 * All images are my own.
 
 ### Acknowledgements
 
-*Precious Ijege, my mentor, for all the help and guidance towards my full project.
+* Precious Ijege, my mentor, for all the help and guidance towards my full project.
 
-*Mike Choi at Boutique Smokes for some inspirational words on new world cigars.
+* Mike Choi at Boutique Smokes for some inspirational words on new world cigars.
 
 
