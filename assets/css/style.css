@@ -13,10 +13,6 @@
     font-size: 20px;
 }
 
-.logo {
-    margin-bottom: 25px;
-}
-
 .head-color {
     color: #882828;
 }
@@ -25,12 +21,16 @@
 
 .img {
     border: solid 2px #882828;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
-.section-space {
-    margin: 50px;
-    padding: 20px;
+.mid-cigar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.font {    
     font-family: "Quicksand", sans-serif;
 }
 
@@ -42,23 +42,26 @@
     margin-right: 90px;
 }
 
+.jumbo-color {
+    color: #882828;
+}
+
 .ct-mid {
     text-align: center;
 }
 
-@media(min-width: 992px) {
+@media (min-width: 992px) {
     .center-form{
-    padding-top: 30px;
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
-    border: 1px solid#882828;
+    border: 1px solid #882828;
     padding: 10px;
     border-radius: 5px;     
 }
 }
 
-@media(min-width: 992px) {
+@media (min-width: 992px) {
     .center-form-1{
     min-height: 240px;
     margin: 0 auto;
@@ -69,6 +72,20 @@
 }
 }
 
+@media (max-width: 992px) {
+    .jumbotron{
+    padding: 0px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+}
+
+@media (max-width: 992px) {
+    .btn{
+    margin-bottom: 5px;
+}
+}
+
 .btn {
     margin-top: 5px;
     margin-right: 20px;
@@ -76,8 +93,7 @@
 
 .hero {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 /* -- Footer CSS for all pages -- */
@@ -88,13 +104,11 @@
 
 .center {
     text-align: center;
-    margin: 50px;
 }
 
 .d-md-inline-block {
     font-size: 50px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 5px;
 }
 
 .social {
