@@ -36,10 +36,14 @@
 
 .jumbotron {
     text-align: center;
-    padding-left: 55px;
-    padding-right: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
     margin-left: 90px;
     margin-right: 90px;
+}
+
+.jumbo-side {
+    margin: 0px;
 }
 
 .jumbo-color {
