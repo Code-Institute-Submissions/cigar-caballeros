@@ -96,6 +96,10 @@
     margin: auto;
 }
 
+.form-control {
+    margin: 5px;
+}
+
 /* -- Footer CSS for all pages -- */
 
 .foot {
