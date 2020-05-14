@@ -1,17 +1,22 @@
 # CIGAR CABALLEROS
+
+[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/logo.jpg
+
+![alt text][logo]
+
 My project is a 6 page website. Consisting of a home, cigars, the process, cigar time, contact us and a whatsapp 
 page. The aim of my website is to draw new and old cigar lovers to meet up and share cigars. As well as a few 
 pages with information on cigars for new cigar enthusiasts. The main draw for the website is to have users join 
 the group for free and connect with the club through other sources of social media.
 
-![alt text][logo]
-
-[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/logo.jpg
-
 ## UX
-* As a user, I want to be able to find local meet ups, so that I can enjoy my cigars with.
 
-* As a user, I want to better understand cigar terms, without the need to research more.
+The client wanted a user experience that was simple and easy to navigate. As well as, a site for users to come and
+meet fellow cigar lovers and to have good information for new cigar enthusiasts to look into and get started.
+
+Below is the user stories:
+
+* As a user, I want to be able to find local meet ups, so that I can enjoy my cigars with.
 
 * As a user, I want to have a space to communicate with cigar specialists to understand how to care for my own 
 cigars.
@@ -24,77 +29,64 @@ cigar event.
 * As a user, I want to see cigar caballeros social media links so I can find more information on cigars and events.
 
 ## FEATURES
-The layout of the pages to this site is the same. This is to keep continuity and allow users to broswe the site 
-more easily with less chance of getting lost. It has six pages to the website which is all clearly marked for ease 
-of navigation. I have tried to keep a very simplistic approach to the design with the user in mind.
 
 ### Existing Features
 
-##### Header
-A simple club logo. This is to help a user recognise where they are and who we are as a club.
+The features of this website are listed below.
 
-#### Navigation Bar
-The navigation bar is a simply and elegant design. It is to the point and helps users get to their desired pages 
-easily.
+* Header holds the logo image. (Client doesn't have a better logo file at the moment.)
 
-#### Footer
-Here we have four of our social links for users to engage and interact with us in different ways. Very impactful as
-the icons are big enough to see and the colours are inlione with the logo.
+* Navigation bar with toggler when screen size is reduced.
 
-#### Images
-All the images are from the club and unique. This will allow users to get a better in depth view of what the club 
-offers.
+* Images throughout the site. All images are owned by the client.
 
-#### Contact Us Form
-A simple form for new users to contact the club. Easy for anyone to engage the club with all cigar related questions.
+* A google map of the location of a previous cigar event.
 
-#### Sign Up Form
-The sign up form is also a simple form for all users looking to join. It also emphasises there is no joining fee 
-at all.
+* Forms in cigartime.html and contactus.html.
 
-#### Jumbotron (index.html)
-The jumbrotron used here is to attract users immediately who land on the page and are looking for immdiate sign up.
-Just click on the 'Join Free' button and it will take you straigh to the sign up form.
+* Footer contains all the clients social media links. As social media continues to grow in popularity I have 
+implemented the clubs social links into the site. For users who are actively looking for Facebook, Instagram or 
+the likes we have that to hand for them too.
 
-#### Jumbotron (whatsapp.html)
-A seperate page was added to the 'What's App' icon on the footer. When the icon is clicked the iuser is taken to 
-the whatsapp page. This is yet another way for new users to connect with the club. A mobile number is already 
-available for a new user to take and use. Once connected the user will be automatically added to he group. 
+* Jumbotron (index.html) - The jumbrotron used here is to attract users immediately who land on the page and are 
+looking for immdiate sign up. Just click on the 'Join Free' button and it will take you straigh to the sign up form.
 
-#### YouTube Videos
-Currently the club has no unique content for videos. I have implemented some other cigar afficionados with cigar 
-instructional videos onto the site. They are slightly longer than a brief clip but very informative and educational 
-to amateur or intermediate cogar smokers.
+* Jumbotron (whatsapp.html) - A seperate page was added to the 'What's App' icon on the footer. When the icon is 
+clicked the iuser is taken to the whatsapp page. This is yet another way for new users to connect with the club. A 
+mobile number is already available for a new user to take and use. Once connected the user will be automatically 
+added to he group. 
 
-#### Social Icons
-As social media continues to grow in popularity I have implemented the clubs social links into the site. For users
-who are actively looking for Facebook, Instagram or the likes we have that to hand for them too.
+* YouTube videos are embedded because currently the club has no unique content for videos. I have implemented some 
+other cigar afficionados with cigar instructional videos onto the site. They are slightly longer than a brief clip 
+but very informative and educational to amateur or intermediate cogar smokers.
 
 ### Features Left To Implement
-In the future the club would be looking to take online cogar meets to the next level with more virtual herfing.
-Possibly an application that allows users to pay and join in to a cigar event.
+In the future the club would be looking to take online cigar meets to the next level with more virtual herfing.
+Possibly an application that allows users to pay and join in to a cigar event. However this is out of my scope 
+at the moment.
 
-The club is looking to do merchandise and will in time implement and online store.
+The club is looking to do merchandise and will in time implement and online store. This cannot be implemented until
+the client has merchandise to sell.
 
 ## TECHNOLOGIES USED
 
-* HTML5
+* [HTML5] (https://en.wikipedia.org/wiki/HTML5)
 
-* CSS3
+* [CSS3] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 
-* Boostrap version 4.4.1
+* [Boostrap version 4.4.1] (https://getbootstrap.com/)
 
-* Cigar Favicon
+* [Cigar Favicon] (https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
 
-* jQuery
+* [jQuery] (https://jquery.com/)
 
-* Javascript
+* [Javascript] (https://www.javascript.com/)
 
-* Fontawesome
+* [Fontawesome] (https://fontawesome.com/)
 
-* Google Fonts
+* [Google Fonts] (https://fonts.google.com/)
 
-* Balsamiq Wireframes
+* [Balsamiq Wireframes] (https://balsamiq.com/)
 
 ## TESTING
 
