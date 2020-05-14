@@ -70,23 +70,23 @@ the client has merchandise to sell.
 
 ## TECHNOLOGIES USED
 
-* [HTML5] (https://en.wikipedia.org/wiki/HTML5)
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-* [CSS3] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
+[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 
-* [Boostrap version 4.4.1] (https://getbootstrap.com/)
+[Boostrap version 4.4.1](https://getbootstrap.com/)
 
-* [Cigar Favicon] (https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
+[Cigar Favicon](https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
 
-* [jQuery] (https://jquery.com/)
+[jQuery](https://jquery.com/)
 
-* [Javascript] (https://www.javascript.com/)
+[Javascript](https://www.javascript.com/)
 
-* [Fontawesome] (https://fontawesome.com/)
+[Fontawesome](https://fontawesome.com/)
 
-* [Google Fonts] (https://fonts.google.com/)
+[Google Fonts](https://fonts.google.com/)
 
-* [Balsamiq Wireframes] (https://balsamiq.com/)
+[Balsamiq Wireframes](https://balsamiq.com/)
 
 ## TESTING
 
