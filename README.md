@@ -1,8 +1,12 @@
 # CIGAR CABALLEROS
-My task for this project is to build a static site using HTML5, CSS3 and the Bootstrap framwork. It is to have a
-minimum of three pages. I took this opportunity to develop the skills I have learned so far to further my passion
-for cigars. I currently have a cigar club website which I wanted to redesign. The idea of this redesign is to keep
-it simplistic and easy to use.
+My project is a 6 page website. Consisting of a home, cigars, the process, cigar time, contact us and a whatsapp 
+page. The aim of my website is to draw new and old cigar lovers to meet up and share cigars. As well as a few 
+pages with information on cigars for new cigar enthusiasts. The main draw for the website is to have users join 
+the group for free and connect with the club through other sources of social media.
+
+![alt text][logo]
+
+[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/logo.jpg
 
 ## UX
 * As a user, I want to be able to find local meet ups, so that I can enjoy my cigars with.
