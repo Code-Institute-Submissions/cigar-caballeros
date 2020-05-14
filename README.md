@@ -30,11 +30,11 @@ cigar event.
 
 ### Wireframes
 
-[Desktop]()
+[Desktop](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-a0cb412dde79d293d908854b646abeb4)
 
-[Tablet]()
+[Tablet](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-b6f2189cc575b22f3fc0809459eb56e6)
 
-[Mobile]()
+[Mobile](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-80e604f7d251d04a299b65ccfb8b09e7)
 
 ## FEATURES
 
@@ -101,13 +101,25 @@ the client has merchandise to sell.
 I started testing the sites HTML by going to [W3C Markup Validator](https://validator.w3.org/). My HTML code showed 
 no errors.
 
-[html]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/logo.jpg
+[html](https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/html-validator.JPG)
 
 ![alt text][html]
 
 After checking HTML I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Only one warning came up
 regarding [Google Fonts](https://fonts.google.com/specimen/Quicksand) CSS. So I copied the Google fonts link to 
 their CSS and validated that too.
+
+[CSS 01](https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator01.JPG)
+
+![alt text][CSS 01]
+
+[CSS 02](https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator02.JPG)
+
+![alt text][CSS 02]
+
+[CSS 03](https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator03.JPG)
+
+![alt text][CSS 03]
 
 To test the responsiveness of mt site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F)
 
@@ -192,6 +204,8 @@ To publish the website, the following steps needs to be taken:
 5. A green box should appear with the following message 
 **'Your site is published at https://jtwy23.github.io/cigar-caballeros/'**
 
+[Deployment](https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/deployment.JPG)
+
 Clone Website
 To clone the website to work locally, follow the steps below:
 1. Go to the main page of the GitHub repository and click on the dropdown menu **'Clone or download'**
@@ -222,5 +236,4 @@ implement bootstrap.
 
 * Mike Choi at Boutique Smokes for some inspirational words on new world cigars.
 
-
-
+* Matthew Yong for his README.md that allowed me to structure my own better.
