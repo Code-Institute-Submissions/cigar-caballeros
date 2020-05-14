@@ -30,11 +30,11 @@ cigar event.
 
 ### Wireframes
 
-[Desktop](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-a0cb412dde79d293d908854b646abeb4)
+* [Desktop](https://github.com/jtwy23/cigar-caballeros/blob/master/README/pdf/Milestone%2001%20-%20Desktop.pdf)
 
-[Tablet](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-b6f2189cc575b22f3fc0809459eb56e6)
+* [Tablet](https://github.com/jtwy23/cigar-caballeros/blob/master/README/pdf/Milestone%2001%20-%20Mobile.pdf)
 
-[Mobile](https://github.com/jtwy23/cigar-caballeros/commit/1f36c01b581405ee91a20013823cfc7a6c22f80a#diff-80e604f7d251d04a299b65ccfb8b09e7)
+* [Mobile](https://github.com/jtwy23/cigar-caballeros/blob/1f36c01b581405ee91a20013823cfc7a6c22f80a/README/pdf/Milestone%2001%20-%20Tablet.pdf)
 
 ## FEATURES
 
@@ -48,7 +48,7 @@ The features of this website are listed below.
 
 * Images throughout the site. All images are owned by the client.
 
-* A google map of the location of a previous cigar event.
+* A Google map of the location of a previous cigar event.
 
 * Forms in cigartime.html and contactus.html.
 
@@ -62,7 +62,7 @@ looking for immdiate sign up. Just click on the 'Join Free' button and it will t
 * Jumbotron (whatsapp.html) - A seperate page was added to the 'What's App' icon on the footer. When the icon is 
 clicked the iuser is taken to the whatsapp page. This is yet another way for new users to connect with the club. A 
 mobile number is already available for a new user to take and use. Once connected the user will be automatically 
-added to he group. 
+added to the group. 
 
 * YouTube videos are embedded because currently the club has no unique content for videos. I have implemented some 
 other cigar afficionados with cigar instructional videos onto the site. They are slightly longer than a brief clip 
@@ -78,25 +78,27 @@ the client has merchandise to sell.
 
 ## TECHNOLOGIES USED
 
-[HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 
-[Boostrap version 4.4.1](https://getbootstrap.com/)
+* [Boostrap version 4.4.1](https://getbootstrap.com/)
 
-[Cigar Favicon](https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
+* [Cigar Favicon](https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
 
-[jQuery](https://jquery.com/)
+* [jQuery](https://jquery.com/)
 
-[Javascript](https://www.javascript.com/)
+* [Javascript](https://www.javascript.com/)
 
-[Fontawesome](https://fontawesome.com/)
+* [Fontawesome](https://fontawesome.com/)
 
-[Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/)
 
-[Balsamiq Wireframes](https://balsamiq.com/)
+* [Balsamiq Wireframes](https://balsamiq.com/)
 
 ## TESTING
+
+### HTML5
 
 I started testing the sites HTML by going to [W3C Markup Validator](https://validator.w3.org/). My HTML code showed 
 no errors.
@@ -104,6 +106,8 @@ no errors.
 [html]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/html-validator.JPG
 
 ![alt text][HTML]
+
+### CSS3
 
 After checking HTML I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Only one warning came up
 regarding [Google Fonts](https://fonts.google.com/specimen/Quicksand) CSS. So I copied the Google fonts link to 
@@ -121,7 +125,7 @@ their CSS and validated that too.
 
 ![alt text][CSS 03]
 
-To test the responsiveness of mt site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F)
+- To test the responsiveness of my site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F)
 
 - Header: This was tested by navigating away from the page and clicking the logo to see that it points back to the
 index.html.
@@ -159,7 +163,7 @@ empty and the others filled and pressing submit. The email field was tested by e
 - whatsapp.html: Only a jumbotron on this page. It was tested byr loading the page up and reloading the page. No 
 problems whle doing this.
 
-- Browser Test:
+### Browser Test
 
 * Google Chrome: GOOD
 
@@ -173,7 +177,7 @@ problems whle doing this.
 
 * IE: GOOD
 
-- Mobile/Tablet Test:
+### Mobile/Tablet Test
 
 * Galaxy S5: GOOD
 
@@ -193,7 +197,7 @@ problems whle doing this.
 
 ## DEPLOYMENT
 
-Github was used for deployment
+Github was used for deployment.
 
 To publish the website, the following steps needs to be taken:
 
