@@ -7,7 +7,7 @@
 My project is a 6 page website. Consisting of a home, cigars, the process, cigar time, contact us and a whatsapp 
 page. The aim of my website is to draw new and old cigar lovers to meet up and share cigars. As well as a few 
 pages with information on cigars for new cigar enthusiasts. The main draw for the website is to have users join 
-the group for free and connect with the club through other sources of social media.
+the group for free and connect with the club through other sources of social media. You can view the site [here](https://jtwy23.github.io/cigar-caballeros/index.html).
 
 ## UX
 
@@ -240,8 +240,8 @@ To clone the website to work locally, follow the steps below:
 ### Media
 
 * YouTube was used for the instructional videos.
-    - John from Cigar Advisor [Cigar Advisor](https://www.youtube.com/user/CigarAdvisorMagazine)
-    - Delicia from Cigar Vixen [Cigar Vixen](https://www.youtube.com/user/CIGARVIXEN)
+    - John from [Cigar Advisor](https://www.youtube.com/user/CigarAdvisorMagazine)
+    - Delicia from [Cigar Vixen](https://www.youtube.com/user/CIGARVIXEN)
 
 * All images are my own.
 
