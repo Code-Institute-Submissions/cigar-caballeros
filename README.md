@@ -1,6 +1,6 @@
 # CIGAR CABALLEROS
 
-[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/logo.jpg
+[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/logo.jpg
 
 ![alt text][logo]
 
@@ -14,9 +14,9 @@ the group for free and connect with the club through other sources of social med
 The client wanted a user experience that was simple and easy to navigate. As well as, a site for users to come and
 meet fellow cigar lovers and to have good information for new cigar enthusiasts to look into and get started.
 
-Below is the user stories:
+Below are the user stories:
 
-* As a user, I want to be able to find local meet ups, so that I can enjoy my cigars with.
+* As a user, I want to be able to find local meet ups, so that I can enjoy my cigars with others.
 
 * As a user, I want to have a space to communicate with cigar specialists to understand how to care for my own 
 cigars.
@@ -30,11 +30,13 @@ cigar event.
 
 ### Wireframes
 
-* [Desktop](https://github.com/jtwy23/cigar-caballeros/blob/master/README/pdf/Milestone%2001%20-%20Desktop.pdf)
+Balsamiq was the software used to create the wireframes.
 
-* [Tablet](https://github.com/jtwy23/cigar-caballeros/blob/master/README/pdf/Milestone%2001%20-%20Mobile.pdf)
+* [Desktop](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Desktop.pdf)
 
-* [Mobile](https://github.com/jtwy23/cigar-caballeros/blob/1f36c01b581405ee91a20013823cfc7a6c22f80a/README/pdf/Milestone%2001%20-%20Tablet.pdf)
+* [Tablet](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Tablet.pdf)
+
+* [Mobile](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Mobile.pdf)
 
 ## FEATURES
 
@@ -57,44 +59,48 @@ implemented the clubs social links into the site. For users who are actively loo
 the likes we have that to hand for them too.
 
 * Jumbotron (index.html) - The jumbrotron used here is to attract users immediately who land on the page and are 
-looking for immdiate sign up. Just click on the 'Join Free' button and it will take you straigh to the sign up form.
+looking for immediate sign up. Just click on the 'Join Free' button and it will take you straight to the sign up 
+form.
 
 * Jumbotron (whatsapp.html) - A seperate page was added to the 'What's App' icon on the footer. When the icon is 
-clicked the iuser is taken to the whatsapp page. This is yet another way for new users to connect with the club. A 
+clicked the user is taken to the whatsapp page. This is yet another way for new users to connect with the club. A 
 mobile number is already available for a new user to take and use. Once connected the user will be automatically 
 added to the group. 
 
 * YouTube videos are embedded because currently the club has no unique content for videos. I have implemented some 
 other cigar afficionados with cigar instructional videos onto the site. They are slightly longer than a brief clip 
-but very informative and educational to amateur or intermediate cogar smokers.
+but very informative and educational to amateur or intermediate cigar smokers.
 
 ### Features Left To Implement
 In the future the club would be looking to take online cigar meets to the next level with more virtual herfing.
 Possibly an application that allows users to pay and join in to a cigar event. However this is out of my scope 
 at the moment.
 
-The club is looking to do merchandise and will in time implement and online store. This cannot be implemented until
+The club has plans to sell merchandise and will in time implement an online store. This cannot be implemented until
 the client has merchandise to sell.
 
 ## TECHNOLOGIES USED
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - The markup language used to structure and present the content onto the web.
 
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
+    - Used CSS to style the website.
 
 * [Boostrap version 4.4.1](https://getbootstrap.com/)
+    - Framework used to create website.
 
 * [Cigar Favicon](https://www.freefavicon.com/freefavicons/objects/iconinfo/cuban-cigar-152-204530.html)
-
-* [jQuery](https://jquery.com/)
-
-* [Javascript](https://www.javascript.com/)
+    - The cigar icon used for the page tab.
 
 * [Fontawesome](https://fontawesome.com/)
+    - All social media icons were used from fontawesome.
 
 * [Google Fonts](https://fonts.google.com/)
+    - Used 'Quicksand' font for all text on website.
 
 * [Balsamiq Wireframes](https://balsamiq.com/)
+    -Used to create basic layout of the pages.
 
 ## TESTING
 
@@ -103,7 +109,7 @@ the client has merchandise to sell.
 I started testing the sites HTML by going to [W3C Markup Validator](https://validator.w3.org/). My HTML code showed 
 no errors.
 
-[html]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/html-validator.JPG
+[html]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/html-validator.JPG
 
 ![alt text][HTML]
 
@@ -113,19 +119,25 @@ After checking HTML I used [W3C CSS Validator](https://jigsaw.w3.org/css-validat
 regarding [Google Fonts](https://fonts.google.com/specimen/Quicksand) CSS. So I copied the Google fonts link to 
 their CSS and validated that too.
 
-[CSS 01]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator01.JPG
+[CSS 01]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator01.JPG
 
 ![alt text][CSS 01]
 
-[CSS 02]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator02.JPG
+[CSS 02]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator02.JPG
 
 ![alt text][CSS 02]
 
-[CSS 03]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/css-validator03.JPG
+[CSS 03]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator03.JPG
 
 ![alt text][CSS 03]
 
-- To test the responsiveness of my site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F)
+### Responsive
+
+To test the responsiveness of my site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F).
+
+[Responsive]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/responsive.JPG
+
+![alt text][Responsive]
 
 - Header: This was tested by navigating away from the page and clicking the logo to see that it points back to the
 index.html.
@@ -133,7 +145,7 @@ index.html.
 - Footer: There are four social media links on the footer. [Facebook](https://www.facebook.com/), 
 [Instagram](https://www.instagram.com/) and [Twitter](https://twitter.com/) were tested to see if when these icons
 are clicked it navigates away to the respective page and opens on a new page so the user can get back to our site.
-The 'What's App' icon actually helps users navigate to a different part of my site. Therefore no new browser window
+The 'What's App' icon actually helps users navigate to a different part of the site. Therefore no new browser window
 needs to be opened. All this came out the way it was expected.
 
 - index.html: There are two images on this page. I made sure that the images load up properly by refreshing the page. I 
@@ -146,12 +158,12 @@ also clicked on each image and checked that it opens up into a new window so the
 the site.
 
 - theprocess.html: As the client had no unique video content for this section. I embedded 'Youtube' videos from other
-cigar bloggers. The videos were embedded so that users stayed onto the page while the videos played. I tested each
+cigar bloggers. The videos were embedded so that users stay onto the page while the videos played. I tested each
 embedded video by playing them for one minute each.
 
-- cigartime.html: There is a form on this page. I tested the form but inputting all relevant details and pressing 
+- cigartime.html: The form on this page is tested by inputting all relevant details and pressing 
 submit. Then I tried leaving one field empty and the others filled and pressing submit. The email field was tested 
-by enerting randon names without the @ sign as well. All tests came back as expected. There is also a Google map on
+by entering random names without the @ symbol as well. All tests came back as expected. There is also a Google map on
 the page and I tested this by loading up the page and refreshing to see if the map loaded up each time.
 
 - contactus.html: The image loads up properly by refreshing the page. I also clicked on each image and checked that 
@@ -160,7 +172,7 @@ page. I tested the form but inputting all relevant details and pressing submit. 
 empty and the others filled and pressing submit. The email field was tested by enerting randon names without the 
 @ sign as well. All tests came back as expected. 
 
-- whatsapp.html: Only a jumbotron on this page. It was tested byr loading the page up and reloading the page. No 
+- whatsapp.html: Only a jumbotron on this page. It was tested by loading the page up and reloading the page. No 
 problems whle doing this.
 
 ### Browser Test
@@ -208,7 +220,7 @@ To publish the website, the following steps needs to be taken:
 5. A green box should appear with the following message 
 **'Your site is published at https://jtwy23.github.io/cigar-caballeros/'**
 
-[Deployment]: https://github.com/jtwy23/cigar-caballeros/blob/master/README/readme-images/deployment.JPG
+[Deployment]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/deployment.JPG
 
 ![alt text][Deployment]
 
@@ -228,18 +240,21 @@ To clone the website to work locally, follow the steps below:
 ### Media
 
 * YouTube was used for the instructional videos.
+    - John from Cigar Advisor [Cigar Advisor](https://www.youtube.com/user/CigarAdvisorMagazine)
+    - Delicia from Cigar Vixen [Cigar Vixen](https://www.youtube.com/user/CIGARVIXEN)
 
 * All images are my own.
 
 ### Acknowledgements
 
-* Precious Ijege, my mentor, for all the help and guidance towards my full project.
+* [Precious Ijege](https://github.com/precious-ijege), my mentor, for all the help and guidance towards my full project.
 
-* All Code Institute tutirs who have helped me through mispelled words and coding problems.
+* All Code Institute tutors who have helped me through mispelled words and coding problems.
 
 * [HackerThemes](https://hackerthemes.com/bootstrap-cheatsheet/) for helping me find all the classes I needed to 
 implement bootstrap.
 
-* Mike Choi at Boutique Smokes for some inspirational words on new world cigars.
+* [Mike Choi](https://www.boutiquesmokes.co.uk/) at Boutique Smokes for some inspirational words on new world cigars.
 
-* Matthew Yong for his README.md that allowed me to structure my own better.
+* [Matthew Yong](https://github.com/MatthewYong/saitama-dainingu/blob/master/README.md) for his README.md file that led me 
+to create and refine my sub par README.md file.
