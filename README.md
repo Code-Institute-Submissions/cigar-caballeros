@@ -1,6 +1,6 @@
 # CIGAR CABALLEROS
 
-[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/logo.jpg
+[logo]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/logo.jpg
 
 ![alt text][logo]
 
@@ -32,11 +32,11 @@ cigar event.
 
 Balsamiq was the software used to create the wireframes.
 
-* [Desktop](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Desktop.pdf)
+* [Desktop](https://github.com/jtwy23/cigar-caballeros/blob/master/mockups/Milestone%2001%20-%20Desktop.pdf)
 
-* [Tablet](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Tablet.pdf)
+* [Tablet](https://github.com/jtwy23/cigar-caballeros/blob/master/mockups/Milestone%2001%20-%20Tablet.pdf)
 
-* [Mobile](https://github.com/jtwy23/cigar-caballeros/blob/master/assets/mockups/Milestone%2001%20-%20Mobile.pdf)
+* [Mobile](https://github.com/jtwy23/cigar-caballeros/blob/master/mockups/Milestone%2001%20-%20Mobile.pdf)
 
 ## FEATURES
 
@@ -109,7 +109,7 @@ the client has merchandise to sell.
 I started testing the sites HTML by going to [W3C Markup Validator](https://validator.w3.org/). My HTML code showed 
 no errors.
 
-[html]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/html-validator.JPG
+[html]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/html-validator.JPG
 
 ![alt text][HTML]
 
@@ -119,15 +119,15 @@ After checking HTML I used [W3C CSS Validator](https://jigsaw.w3.org/css-validat
 regarding [Google Fonts](https://fonts.google.com/specimen/Quicksand) CSS. So I copied the Google fonts link to 
 their CSS and validated that too.
 
-[CSS 01]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator01.JPG
+[CSS 01]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/css-validator01.JPG
 
 ![alt text][CSS 01]
 
-[CSS 02]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator02.JPG
+[CSS 02]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/css-validator02.JPG
 
 ![alt text][CSS 02]
 
-[CSS 03]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/css-validator03.JPG
+[CSS 03]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/css-validator03.JPG
 
 ![alt text][CSS 03]
 
@@ -135,7 +135,7 @@ their CSS and validated that too.
 
 To test the responsiveness of my site I used [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fjtwy23.github.io%2Fcigar-caballeros%2F).
 
-[Responsive]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/responsive.JPG
+[Responsive]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/responsive.JPG
 
 ![alt text][Responsive]
 
@@ -220,7 +220,7 @@ To publish the website, the following steps needs to be taken:
 5. A green box should appear with the following message 
 **'Your site is published at https://jtwy23.github.io/cigar-caballeros/'**
 
-[Deployment]: https://github.com/jtwy23/cigar-caballeros/blob/master/assets/readme-images/deployment.JPG
+[Deployment]: https://github.com/jtwy23/cigar-caballeros/blob/master/readme-images/deployment.JPG
 
 ![alt text][Deployment]
 
